@@ -1,1 +1,1 @@
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=fb-dl-telegram-bot&repository=rasanjanapiumal99%2Ffb-dl-telegram-bot&branch=main&instance_type=free&instances_min=0&env%5BAPI_KEY%5D=sky%7C23f8d135360b03df4eb0522af9822f29c4481967&env%5BBOT_TOKEN%5D=7275302046%3AAAFilqwPGclcaSqrx2sQwdTjjwm9dbck46c&env%5BCHANNEL_ID%5D=%40skymansion_official)
+
